@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Kilojoule-Zähler "</string>
+    <string name="Add_exercise">" Aktivität Hinzufügen"</string>
+    <string name="Add_meal">Mahlzeit Hinzufügen</string>
+    <string name="Calories_hint">" Betreten Sie Kilojoules"</string>
+    <string name="Cancel_entry">Verwerfen</string>
+    <string name="Date">Datum</string>
+    <string name="Date_hint">"Datum Eingeben "</string>
+    <string name="Exercise">Übungskategorie</string>
+    <string name="Food">Lebensmittelkategorie</string>
+    <string name="Return_Home">" Zuhause"</string>
+    <string name="Save_entry">Sparen</string>
+    <string name="Tot_Food">"Essen Insgesamt "</string>
+    <string name="Total_Ex">Übungssumme</string>
+    <string name="Total_calories">"Nett Kilojoule "</string>
+    <string name="add_entry">"Eintrag Hinzufügen "</string>
+    <string name="avg_kj">" Durchschnittliche Kilojoule"</string>
+    <string name="cal_Tot">Gesamt</string>
+    <string name="date_Select">"Datum Auswählen "</string>
+    <string name="first_meal">Frühstück</string>
+    <string name="new_entry">"Eintrag Hinzufügen "</string>
+    <string name="Next">Nächster</string>
+    <string name="Previous">Bisherige</string>
+</resources>

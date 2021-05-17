@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Kilojoule Counter</string>
+
+
+    <string-array name="Food_Category">
+
+        <item>Select Meal</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Supper</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="Exercise_Category">
+
+        <item>Select Activity</item>
+        <item>Gym</item>
+        <item>Jogging</item>
+        <item>Sport</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="new_entry">Add Entry</string>
+    <string name="add_entry">Add Entry</string>
+    <string name="Food">Food Category</string>
+    <string name="first_meal">Breakfast</string>
+    <string name="Exercise">Exercise Category</string>
+    <string name="Date">Date</string>
+    <string name="Date_hint">Enter date</string>
+    <string name="Calories_hint">Enter Kilojoules</string>
+    <string name="Total_calories">Nett Kilojoules</string>
+    <string name="date_Select">Select Date</string>
+    <string name="Total_Ex">Exercise Total</string>
+    <string name="Tot_Food">Food Total</string>
+    <string name="cal_Tot">Total</string>
+    <string name="Save_entry">Save</string>
+    <string name="Cancel_entry">Discard</string>
+    <string name="Add_meal">Add Meal</string>
+    <string name="Add_exercise">Add Activity</string>
+    <string name="Return_Home">Home</string>
+    <string name="avg_kj">Average Kilojoules</string>
+    <string name="Next">Next</string>
+    <string name="Previous">Previous</string>
+</resources>

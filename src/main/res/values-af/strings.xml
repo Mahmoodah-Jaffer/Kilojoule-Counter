@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kilojoule Toonbank</string>
+    <string name="add_entry">Voeg Inskrywing</string>
+    <string name="new_entry">Voeg Inskrywing</string>
+    <string name="Calories_hint">Voer Kilojoules</string>
+    <string name="Date_hint">"Voer Datum "</string>
+    <string name="Date">Datum</string>
+    <string name="date_Select">Kies Datum</string>
+    <string name="cal_Tot">Totaal</string>
+    <string name="Cancel_entry">" Weggooi"</string>
+    <string name="first_meal">Ontbyt</string>
+    <string name="Total_calories">" Netto Kilojoules"</string>
+    <string name="Exercise">Oefenkategorie</string>
+    <string name="Food">" Koskategorie"</string>
+    <string name="Save_entry">Red</string>
+    <string name="Tot_Food">Voedsel Totaal</string>
+    <string name="Total_Ex">" Oefening Totaal"</string>
+    <string name="Add_meal">Maaltyd Voeg</string>
+    <string name="Add_exercise">Aktiwiteit Voeg</string>
+    <string name="Return_Home">Huis</string>
+    <string name="avg_kj">Gemiddelde Kilojoules</string>
+    <string name="Previous">Vorige</string>
+    <string name="Next">Volgende</string>
+</resources>
